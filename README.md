@@ -23,9 +23,9 @@
 
  2.2. Dimensionality reduction
 
-  2.2.1. Standardization of the features
+   2.2.1. Standardization of the features
 
-  2.2.2. PCA
+   2.2.2. PCA
 
 **3. Logistic Regression Model**
 
